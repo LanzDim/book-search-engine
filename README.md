@@ -6,9 +6,9 @@ A Google Books API search engine refactored from a RESTful API to a GraphQL API 
 
 # Packages Used
 
-React
-MongoDB
-Express.js
-Node.js
-GraphQL
-JSONWebToken
+- React
+- MongoDB
+- Express.js
+- Node.js
+- GraphQL
+- JSONWebToken
